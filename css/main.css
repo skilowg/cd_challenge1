@@ -199,6 +199,14 @@ article > p {
    Checklist Section - GP
    ====================================================== */
 
+.line {
+  text-decoration: line-through
+}
+
+input[type=checkbox] {
+	width: 20px !important;
+}
+
 .ingredients {
 	background-image: url(../img/checklist_bg.png);
 	background-repeat: repeat-x;
